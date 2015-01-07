@@ -1,0 +1,13 @@
+lovers_lock_cadenas:
+    resource: "@LoversLockCadenasBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+pont:
+    path:   /
+    defaults:  { _controller: LoversLockPontBundle:Default:index }
+
+utlisateur:
+    resource: "@LoversLockUtilisateurBundle/Resources/config/routing.yml"
+    prefix:   /utilisateur
+

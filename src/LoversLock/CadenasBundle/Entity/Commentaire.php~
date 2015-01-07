@@ -1,0 +1,154 @@
+<?php
+
+namespace LoversLock\CadenasBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Commentaire
+ *
+ * @ORM\Table()
+ * @ORM\Entity
+ */
+class Commentaire
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="idCadenas", type="integer")
+     */
+    private $idCadenas;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="idUtilisateur", type="integer")
+     */
+    private $idUtilisateur;
+
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="dateCreation", type="date")
+     */
+    private $dateCreation;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="message", type="string", length=255)
+     */
+    private $message;
+
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set idCadenas
+     *
+     * @param integer $idCadenas
+     * @return Commentaire
+     */
+    public function setIdCadenas($idCadenas)
+    {
+        $this->idCadenas = $idCadenas;
+
+        return $this;
+    }
+
+    /**
+     * Get idCadenas
+     *
+     * @return integer 
+     */
+    public function getIdCadenas()
+    {
+        return $this->idCadenas;
+    }
+
+    /**
+     * Set idUtilisateur
+     *
+     * @param integer $idUtilisateur
+     * @return Commentaire
+     */
+    public function setIdUtilisateur($idUtilisateur)
+    {
+        $this->idUtilisateur = $idUtilisateur;
+
+        return $this;
+    }
+
+    /**
+     * Get idUtilisateur
+     *
+     * @return integer 
+     */
+    public function getIdUtilisateur()
+    {
+        return $this->idUtilisateur;
+    }
+
+    /**
+     * Set dateCreation
+     *
+     * @param \DateTime $dateCreation
+     * @return Commentaire
+     */
+    public function setDateCreation($dateCreation)
+    {
+        $this->dateCreation = $dateCreation;
+
+        return $this;
+    }
+
+    /**
+     * Get dateCreation
+     *
+     * @return \DateTime 
+     */
+    public function getDateCreation()
+    {
+        return $this->dateCreation;
+    }
+
+    /**
+     * Set message
+     *
+     * @param string $message
+     * @return Commentaire
+     */
+    public function setMessage($message)
+    {
+        $this->message = $message;
+
+        return $this;
+    }
+
+    /**
+     * Get message
+     *
+     * @return string 
+     */
+    public function getMessage()
+    {
+        return $this->message;
+    }
+}

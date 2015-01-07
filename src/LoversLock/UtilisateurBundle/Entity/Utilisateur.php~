@@ -1,0 +1,94 @@
+<?php
+
+namespace LoversLock\UtilisateurBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Utilisateur
+ *
+ * @ORM\Table()
+ * @ORM\Entity
+ */
+class Utilisateur
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="idFacebook", type="string", length=255)
+     */
+    private $idFacebook;
+
+    /**
+     * @var array
+     *
+     * @ORM\Column(name="listeTypeCadenas", type="array")
+     */
+    private $listeTypeCadenas;
+
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set idFacebook
+     *
+     * @param string $idFacebook
+     * @return Utilisateur
+     */
+    public function setIdFacebook($idFacebook)
+    {
+        $this->idFacebook = $idFacebook;
+
+        return $this;
+    }
+
+    /**
+     * Get idFacebook
+     *
+     * @return string 
+     */
+    public function getIdFacebook()
+    {
+        return $this->idFacebook;
+    }
+
+    /**
+     * Set listeTypeCadenas
+     *
+     * @param array $listeTypeCadenas
+     * @return Utilisateur
+     */
+    public function setListeTypeCadenas($listeTypeCadenas)
+    {
+        $this->listeTypeCadenas = $listeTypeCadenas;
+
+        return $this;
+    }
+
+    /**
+     * Get listeTypeCadenas
+     *
+     * @return array 
+     */
+    public function getListeTypeCadenas()
+    {
+        return $this->listeTypeCadenas;
+    }
+}

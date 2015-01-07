@@ -1,0 +1,3 @@
+utilisateur_login:
+    path:      /login
+    defaults:  { _controller: LoversLockUtilisateurBundle:Default:login }

@@ -1,0 +1,267 @@
+<?php
+
+namespace LoversLock\CadenasBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Cadenas
+ *
+ * @ORM\Table()
+ * @ORM\Entity
+ */
+class Cadenas
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="utilisateur1", type="integer")
+     */
+    private $utilisateur1;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="utilisateur2", type="integer")
+     */
+    private $utilisateur2;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="libelle", type="string", length=255)
+     */
+    private $libelle;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="etat", type="string", length=255)
+     */
+    private $etat;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="statut", type="string", length=255)
+     */
+    private $statut;
+
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="dateCreation", type="date")
+     */
+    private $dateCreation;
+
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="dateRencontre", type="date")
+     */
+    private $dateRencontre;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="URLImage", type="string", length=255)
+     */
+    private $URLImage;
+
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set utilisateur1
+     *
+     * @param integer $utilisateur1
+     * @return Cadenas
+     */
+    public function setUtilisateur1($utilisateur1)
+    {
+        $this->utilisateur1 = $utilisateur1;
+
+        return $this;
+    }
+
+    /**
+     * Get utilisateur1
+     *
+     * @return integer 
+     */
+    public function getUtilisateur1()
+    {
+        return $this->utilisateur1;
+    }
+
+    /**
+     * Set utilisateur2
+     *
+     * @param integer $utilisateur2
+     * @return Cadenas
+     */
+    public function setUtilisateur2($utilisateur2)
+    {
+        $this->utilisateur2 = $utilisateur2;
+
+        return $this;
+    }
+
+    /**
+     * Get utilisateur2
+     *
+     * @return integer 
+     */
+    public function getUtilisateur2()
+    {
+        return $this->utilisateur2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLibelle()
+    {
+        return $this->libelle;
+    }
+
+    /**
+     * @param string $libelle
+     */
+    public function setLibelle($libelle)
+    {
+        $this->libelle = $libelle;
+    }
+
+    /**
+     * Set etat
+     *
+     * @param string $etat
+     * @return Cadenas
+     */
+    public function setEtat($etat)
+    {
+        $this->etat = $etat;
+
+        return $this;
+    }
+
+    /**
+     * Get etat
+     *
+     * @return string 
+     */
+    public function getEtat()
+    {
+        return $this->etat;
+    }
+
+    /**
+     * Set statut
+     *
+     * @param string $statut
+     * @return Cadenas
+     */
+    public function setStatut($statut)
+    {
+        $this->statut = $statut;
+
+        return $this;
+    }
+
+    /**
+     * Get statut
+     *
+     * @return string 
+     */
+    public function getStatut()
+    {
+        return $this->statut;
+    }
+
+    /**
+     * Set dateCreation
+     *
+     * @param \DateTime $dateCreation
+     * @return Cadenas
+     */
+    public function setDateCreation($dateCreation)
+    {
+        $this->dateCreation = $dateCreation;
+
+        return $this;
+    }
+
+    /**
+     * Get dateCreation
+     *
+     * @return \DateTime 
+     */
+    public function getDateCreation()
+    {
+        return $this->dateCreation;
+    }
+
+    /**
+     * Set dateRencontre
+     *
+     * @param \DateTime $dateRencontre
+     * @return Cadenas
+     */
+    public function setDateRencontre($dateRencontre)
+    {
+        $this->dateRencontre = $dateRencontre;
+
+        return $this;
+    }
+
+    /**
+     * Get dateRencontre
+     *
+     * @return \DateTime 
+     */
+    public function getDateRencontre()
+    {
+        return $this->dateRencontre;
+    }
+
+    /**
+     * Set URLImage
+     *
+     * @param string $URLImage
+     * @return Cadenas
+     */
+    public function setURLImage($URLImage)
+    {
+        $this->URLImage = $URLImage;
+
+        return $this;
+    }
+
+    /**
+     * Get URLImage
+     *
+     * @return string
+     */
+    public function getURLImage()
+    {
+        return $this->URLImage;
+    }
+}
