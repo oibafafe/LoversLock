@@ -1,59 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63228de4-dea7-4657-9b35-ba1f6a116de5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f5/c4/049eef39e18bfb975b641a1d779953b1773d6176eaf3c1ab28fd03caaef5.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/f5/c4/049eef39e18bfb975b641a1d779953b1773d6176eaf3c1ab28fd03caaef5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/05/84/071bcefa21fcf4ca6ecf23b8ed480647fe9b2663e5ce731b052e01aa6579.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/05/84/071bcefa21fcf4ca6ecf23b8ed480647fe9b2663e5ce731b052e01aa6579.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/eb/2a/094bd0e3120acbb11530465040ece9dfe4810d71a6c5fc2f2ead0ee3832f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/eb/2a/094bd0e3120acbb11530465040ece9dfe4810d71a6c5fc2f2ead0ee3832f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/cb/df/23159e9fd94d2e08a1d9bea0d9f3d99fe581682cab9366a843d3e671fe09.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/cb/df/23159e9fd94d2e08a1d9bea0d9f3d99fe581682cab9366a843d3e671fe09.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/bc/4b/2820587040a51444e167bd68c73f9a1c47a13594069482c3efaa7e11944f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/bc/4b/2820587040a51444e167bd68c73f9a1c47a13594069482c3efaa7e11944f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8a/ce/2abef01b0bab0e85dedb8d8d530e795f5f06612a9c0cfd72eed45c749a31.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8a/ce/2abef01b0bab0e85dedb8d8d530e795f5f06612a9c0cfd72eed45c749a31.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9a/c0/2b647d3f5d7557e8abf7cd39e9d7d019df70eeef6a9e1f639479407a3ece.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/9a/c0/2b647d3f5d7557e8abf7cd39e9d7d019df70eeef6a9e1f639479407a3ece.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9d/0a/30d471d356899d42779583303407257c4fa9d1d2214c9d10a111df8931e3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/9d/0a/30d471d356899d42779583303407257c4fa9d1d2214c9d10a111df8931e3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a8/d5/35098455f265912e2bdc499e2fa473b2eaf9ed0703e4d0fe4c21c3a322f1.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a8/d5/35098455f265912e2bdc499e2fa473b2eaf9ed0703e4d0fe4c21c3a322f1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/39/31/3a7be95f32f415d3821cd8fc8b00fd7543841f61721ace57dffa5e089374.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/39/31/3a7be95f32f415d3821cd8fc8b00fd7543841f61721ace57dffa5e089374.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7a/9a/40bc61cbc8fbd9a8a1105ed11e26c56b1c51c0161788e989e6546dd13c32.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/7a/9a/40bc61cbc8fbd9a8a1105ed11e26c56b1c51c0161788e989e6546dd13c32.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/445a493857d0c754b5a9bb50602e94404c29a718.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/445a493857d0c754b5a9bb50602e94404c29a718.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/57/68/490cd605d76f59ea261e228992c5b5cb0f7db9ce0c90a3bd2819e5879ce4.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/57/68/490cd605d76f59ea261e228992c5b5cb0f7db9ce0c90a3bd2819e5879ce4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/31/5e/50d6111baab4755f7b818112c1689dd37204b0339b514ec77b9cbb923d70.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/31/5e/50d6111baab4755f7b818112c1689dd37204b0339b514ec77b9cbb923d70.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/47/e5/52067e087c29c87f36490ffd7675162a33f6a9de4a13d0db10a8aa110994.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/47/e5/52067e087c29c87f36490ffd7675162a33f6a9de4a13d0db10a8aa110994.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/26/37/53c5efd618f6dec340f9d10cdfa8304dc6bbed6d9b91cc92e04cdf8af94d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/26/37/53c5efd618f6dec340f9d10cdfa8304dc6bbed6d9b91cc92e04cdf8af94d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a2/4f/53de21abcb5a7e5f3e587c771270fa2a863d8ed6c0f2b6d7b6e066fda513.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a2/4f/53de21abcb5a7e5f3e587c771270fa2a863d8ed6c0f2b6d7b6e066fda513.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9d/43/55c9dc9080ac1cdc32dbeb2c59ed6a805ff35235af576febd949731372ba.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/9d/43/55c9dc9080ac1cdc32dbeb2c59ed6a805ff35235af576febd949731372ba.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/83/93/58f5fac9e96502bc77c0835ab36b6079b11eff03c243421265def469a923.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/83/93/58f5fac9e96502bc77c0835ab36b6079b11eff03c243421265def469a923.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/82/49/5fa14e1df7ec73c9311c1ce783423e5d39ca468be6baad5703c78e18eea7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/82/49/5fa14e1df7ec73c9311c1ce783423e5d39ca468be6baad5703c78e18eea7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/95/50/61b8fd755b9da250876c4fea7e5e330b861af627143d08d5ace3718a649e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/95/50/61b8fd755b9da250876c4fea7e5e330b861af627143d08d5ace3718a649e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7e/9c/786cdb71503dd4f274e39dc9120afb88d36e8b287a9107f98f3735f2ab73.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/7e/9c/786cdb71503dd4f274e39dc9120afb88d36e8b287a9107f98f3735f2ab73.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a7/4e/7c9f4f38cfe7d5d754aa1e590cdc1a01055f4fbfa09e6e2c392f68ea7e36.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a7/4e/7c9f4f38cfe7d5d754aa1e590cdc1a01055f4fbfa09e6e2c392f68ea7e36.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fe/0d/7cfad5d257d58ddf62e065154115bab9f3345b3a1d9afab5eebd181604b9.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/fe/0d/7cfad5d257d58ddf62e065154115bab9f3345b3a1d9afab5eebd181604b9.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7d62258d12c27015a52c666125a7acd4f8399115$utilisateurs.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/7d62258d12c27015a52c666125a7acd4f8399115$utilisateurs.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/15/9e/86dec6d6263c9fb84f03daf7aac0bfbcce502199210f61db8606cc6794b7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/15/9e/86dec6d6263c9fb84f03daf7aac0bfbcce502199210f61db8606cc6794b7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/99/13/94755998b05c447dfcd1e75cae5cad4d7442d7fecfcc4eb848470edb0be0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/99/13/94755998b05c447dfcd1e75cae5cad4d7442d7fecfcc4eb848470edb0be0.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3c/35/98706517f6e07a55cde96110626a7965d61326760ad05fc3379e7fdce3dd.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3c/35/98706517f6e07a55cde96110626a7965d61326760ad05fc3379e7fdce3dd.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/71/4d/9cd2f0855a80bfabecdf32e4b77a2d06d5d6771e5abfc2150ea3677af1a8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/71/4d/9cd2f0855a80bfabecdf32e4b77a2d06d5d6771e5abfc2150ea3677af1a8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ea/76/9f0602300094754c38035b27c5bc5380d607365d2870a83fb2bbb066789e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/ea/76/9f0602300094754c38035b27c5bc5380d607365d2870a83fb2bbb066789e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/4c/6b/c69b9dcabc18edcfb02ba51950fd8f6de1ff4628933e884f30841926b582.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/4c/6b/c69b9dcabc18edcfb02ba51950fd8f6de1ff4628933e884f30841926b582.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a3/95/d56cdda3fd6b70856b273ff9fbce084a80b2e59ec699e75d4dfa208fad33.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a3/95/d56cdda3fd6b70856b273ff9fbce084a80b2e59ec699e75d4dfa208fad33.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/6f/f7/d61fd709fde5aee1b6c953cad4483db45f43dde6e5bb2b1c241ee2b8ac5e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/6f/f7/d61fd709fde5aee1b6c953cad4483db45f43dde6e5bb2b1c241ee2b8ac5e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d4/5f/d8dd044fe1f2b0c945e17ddb97e0a94d2e5f17858e6deae4a2499fbf01ed.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d4/5f/d8dd044fe1f2b0c945e17ddb97e0a94d2e5f17858e6deae4a2499fbf01ed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/db240c20813bde7ff32fd80b7a3a12858c2cd39c.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/db240c20813bde7ff32fd80b7a3a12858c2cd39c.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/da/ba/e8886901810bb2c299249c4d93ddf45cb4d973cb2101c65df935955b28fe.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/da/ba/e8886901810bb2c299249c4d93ddf45cb4d973cb2101c65df935955b28fe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8c/ce/ef6aee6bfd57bb755920e0911564fef6f79b58d8ed7e435237828e4bea03.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8c/ce/ef6aee6bfd57bb755920e0911564fef6f79b58d8ed7e435237828e4bea03.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d5/4e/f74b9d6cc5a8e6fb7835bdd216d8363578779e2c875104e84814f789df39.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d5/4e/f74b9d6cc5a8e6fb7835bdd216d8363578779e2c875104e84814f789df39.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b4/a8/f99344db49ddc121b624bd08976921236d2732dc933bcc6d12001217400d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b4/a8/f99344db49ddc121b624bd08976921236d2732dc933bcc6d12001217400d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/5b/a0/f9b9b6b8c3947b9dd664e7f10342f190207289aef44849b97339c9d0f490.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/5b/a0/f9b9b6b8c3947b9dd664e7f10342f190207289aef44849b97339c9d0f490.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+    <list default="true" id="63228de4-dea7-4657-9b35-ba1f6a116de5" name="Default" comment="Ajout des services pour Utilisateur et Cadenas">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LoversLock/CadenasBundle/Service/CadenasService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LoversLock/UtilisateurBundle/Service/UtilisateurService.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LoversLock.iws" />
@@ -82,7 +32,7 @@
       <file leaf-file-name="Utilisateur.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoversLock/UtilisateurBundle/Entity/Utilisateur.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923" vertical-offset="68" max-vertical-offset="3281">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="3281">
               <caret line="11" column="88" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="88" />
               <folding>
                 <element signature="e#55#87#0#PHP" expanded="true" />
@@ -94,7 +44,7 @@
       <file leaf-file-name="Cadenas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoversLock/CadenasBundle/Entity/Cadenas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="4760">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="4760">
               <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
               <folding>
                 <element signature="e#51#83#0#PHP" expanded="true" />
@@ -106,7 +56,7 @@
       <file leaf-file-name="UtilisateurService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoversLock/UtilisateurBundle/Service/UtilisateurService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308" vertical-offset="119" max-vertical-offset="867">
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="867">
               <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
               <folding>
                 <element signature="e#56#87#0#PHP" expanded="true" />
@@ -118,7 +68,7 @@
       <file leaf-file-name="CadenasService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoversLock/CadenasBundle/Service/CadenasService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="374">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#52#83#0#PHP" expanded="true" />
@@ -130,8 +80,8 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LoversLock/PontBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70485437" vertical-offset="164" max-vertical-offset="1224">
-              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.60582525" vertical-offset="164" max-vertical-offset="1224">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding>
                 <element signature="e#52#109#0#PHP" expanded="true" />
               </folding>
@@ -236,6 +186,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -668,7 +619,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -710,15 +660,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost">
@@ -753,35 +703,41 @@
       <option name="project" value="LOCAL" />
       <updated>1420645273173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout des services pour Utilisateur et Cadenas">
+      <created>1420645363236</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1420645363236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23521505" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Symfony2" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23521505" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19730078" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Symfony2" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19987147" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23521505" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1119,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34951457" vertical-offset="551" max-vertical-offset="4913">
           <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,13 +1098,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64728683" vertical-offset="516" max-vertical-offset="3162">
           <caret line="50" column="97" selection-start-line="50" selection-start-column="97" selection-end-line="50" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoversLock/UtilisateurBundle/Entity/Utilisateur.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923" vertical-offset="68" max-vertical-offset="3281">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="3281">
           <caret line="11" column="88" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="88" />
           <folding>
             <element signature="e#55#87#0#PHP" expanded="true" />
@@ -1159,7 +1113,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoversLock/CadenasBundle/Entity/Cadenas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="4760">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="4760">
           <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
           <folding>
             <element signature="e#51#83#0#PHP" expanded="true" />
@@ -1169,7 +1123,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoversLock/UtilisateurBundle/Service/UtilisateurService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="119" max-vertical-offset="867">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="867">
           <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
           <folding>
             <element signature="e#56#87#0#PHP" expanded="true" />
@@ -1179,7 +1133,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoversLock/CadenasBundle/Service/CadenasService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="374">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#52#83#0#PHP" expanded="true" />
@@ -1189,8 +1143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoversLock/PontBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70485437" vertical-offset="164" max-vertical-offset="1224">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.60582525" vertical-offset="164" max-vertical-offset="1224">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <element signature="e#52#109#0#PHP" expanded="true" />
           </folding>
