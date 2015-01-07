@@ -71,3 +71,11 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+services:
+    utilisateur.service:
+        class: LoversLock\UtilisateurBundle\Service\UtilisateurService
+        arguments: [@doctrine.orm.entity_manager]
+    cadenas.service:
+            class: LoversLock\CadenasBundle\Service\CadenasService
+            arguments: [@doctrine.orm.entity_manager]

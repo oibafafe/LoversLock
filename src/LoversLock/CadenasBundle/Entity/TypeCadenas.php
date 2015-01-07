@@ -48,7 +48,7 @@ class TypeCadenas
     private $cadenas;
 
     /**
-     * @ORM\ManyToMany(targetEntity="LoversLock\UtilisateurBundle\Entity\Utilisateur", mappedBy="$typeCadenas")
+     * @ORM\ManyToMany(targetEntity="LoversLock\UtilisateurBundle\Entity\Utilisateur", mappedBy="typeCadenas")
      */
     private $utilisateurs;
 

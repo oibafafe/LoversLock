@@ -3,12 +3,13 @@
 namespace LoversLock\CadenasBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use LoversLock\UtilisateurBundle\Entity\Utilisateur;
 
 /**
  * Cadenas
  *
  * @ORM\Table()
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="LoversLock\CadenasBundle\Service\CadenasService")
  */
 class Cadenas
 {

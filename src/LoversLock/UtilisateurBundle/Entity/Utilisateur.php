@@ -3,12 +3,13 @@
 namespace LoversLock\UtilisateurBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use LoversLock\CadenasBundle\Entity\Cadenas;
 
 /**
  * Utilisateur
  *
  * @ORM\Table()
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="LoversLock\UtilisateurBundle\Service\UtilisateurService")
  */
 class Utilisateur
 {
@@ -24,9 +25,16 @@ class Utilisateur
     /**
      * @var string
      *
-     * @ORM\Column(name="idFacebook", type="string", length=255)
+     * @ORM\Column(name="idSite", type="string", length=255)
      */
-    private $idFacebook;
+    private $idSite;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="nomSite", type="string", length=255)
+     */
+    private $nomSite;
 
     /**
      * @ORM\ManyToMany(targetEntity="LoversLock\CadenasBundle\Entity\Cadenas", inversedBy="utilisateurs")
@@ -51,11 +59,18 @@ class Utilisateur
      */
     private $commentaires;
 
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="dateInscription", type="date")
+     */
+    private $dateInscription;
+
 
     /**
      * Get id
      *
-     * @return integer 
+     * @return integer
      */
     public function getId()
     {
@@ -63,26 +78,42 @@ class Utilisateur
     }
 
     /**
-     * Set idFacebook
+     * Set idSite
      *
-     * @param string $idFacebook
+     * @param string $idSite
      * @return Utilisateur
      */
-    public function setIdFacebook($idFacebook)
+    public function setIdSite($idSite)
     {
-        $this->idFacebook = $idFacebook;
+        $this->idSite = $idSite;
 
         return $this;
     }
 
     /**
-     * Get idFacebook
+     * Get idSite
      *
-     * @return string 
+     * @return string
      */
-    public function getIdFacebook()
+    public function getIdSite()
     {
-        return $this->idFacebook;
+        return $this->idSite;
+    }
+
+    /**
+     * @return string
+     */
+    public function getNomSite()
+    {
+        return $this->nomSite;
+    }
+
+    /**
+     * @param string $nomSite
+     */
+    public function setNomSite($nomSite)
+    {
+        $this->nomSite = $nomSite;
     }
 
     /**
@@ -131,5 +162,26 @@ class Utilisateur
     public function setCommentaires($commentaires)
     {
         $this->commentaires = $commentaires;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getDateInscription()
+    {
+        return $this->dateInscription;
+    }
+
+    /**
+     * @param mixed $dateInscription
+     */
+    public function setDateInscription($dateInscription)
+    {
+        $this->dateInscription = $dateInscription;
+    }
+
+    public function __construct()
+    {
+        $this->dateInscription = new \DateTime('NOW');
     }
 }
