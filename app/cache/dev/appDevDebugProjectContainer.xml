@@ -656,6 +656,12 @@
     </parameter>
   </parameters>
   <services>
+    <service id="utilisateur.service" class="LoversLock\UtilisateurBundle\Service\UtilisateurService">
+      <argument type="service" id="doctrine.orm.default_entity_manager"/>
+    </service>
+    <service id="cadenas.service" class="LoversLock\CadenasBundle\Service\CadenasService">
+      <argument type="service" id="doctrine.orm.default_entity_manager"/>
+    </service>
     <service id="controller_name_converter" class="Symfony\Bundle\FrameworkBundle\Controller\ControllerNameParser" public="false">
       <tag name="monolog.logger" channel="request"/>
       <argument type="service" id="kernel"/>
